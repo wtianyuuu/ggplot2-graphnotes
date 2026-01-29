@@ -9,3 +9,5 @@
 *.Rproj
 
 .DS_Store
+*.png
+*.pages
